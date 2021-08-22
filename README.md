@@ -20,9 +20,7 @@ compares the people having both bone fracture as well as Brain hemorrhage. The c
 model includes the systematic graph plot of the data provided which completes the objective of
 our project. In our project classification has its vital role which is because it provides us the data
 of the patients who are suffering so that they can be provided with the accurate assistance.
-Here’s the graphical representation of the whole data set which shows the multiple values which
-are used to detect the brain hemorrhage of the patient. Along with which the data for the bone
-fracture condition is also given.
+
 
 # Tools, Technologies, and Platform used:- 
  *MATLAB
